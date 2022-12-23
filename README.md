@@ -1,46 +1,42 @@
-# Getting Started with Create React App
+# Wintership 2023 Front End engineering
+The product manager has tasked you with implementing these features for the Release Card Validator page. The following five features need to be completed in the next sprint. Some portion of the code with basica functionalities has already been created.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Feature #1
+### Description
+Users should be able to enter the URL for a Jira Ticket and click on a botton to retrieve it's information. The page should be able to make a Fetch call to the Jira API to retrieve the release card fields to later validation.
 
-## Available Scripts
+### Requirements
+Implement all the needed components to make the call to the Jira API and retrieve the card details. Make all the test cases needed and consider possible failures in the API call and display the appropriate message errors.
 
-In the project directory, you can run:
+## Feature #2
+### Description
 
-### `npm start`
+### Requirements
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Feature #3
+### Description
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Requirements
 
-### `npm test`
+## Feature #4
+### Description
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Requirements
 
-### `npm run build`
+## Feature #5
+### Description
+The following screens are mockups for the look and feel of the page to be created. Please stick to all the basic functionalities but feel free to improve them as you see fit.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Requirements
+Follow these example screens for the look and feel. Add any aditional one you consider it's needed or could improve the user experience (for example, error message).
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+ - Image 1 -
+ - Image 2 -
+ - Image 3 -
+ - Image 4 -
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Directions
 
-### `npm run eject`
+## Extra Credit
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Submission
