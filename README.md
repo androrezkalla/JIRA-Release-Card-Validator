@@ -30,13 +30,13 @@ The following screens are mockups for the look and feel of the page to be create
 ### Requirements
 Follow these example screens for the look and feel. Add any aditional one you consider it's needed or could improve the user experience (for example, error message).
 
-![Validate Button](./designs/wintership_1.jpg)
+![Validate Button](./designs/wintership_1.png)
 
-![Validating](./designs/wintership_2.jpg)
+![Validating](./designs/wintership_2.png)
 
-![Success](./designs/wintership_3.jpg)
+![Success](./designs/wintership_3.png)
 
-![Error](./designs/wintership_4.jpg)
+![Error](./designs/wintership_4.png)
 
 ## Directions
 
