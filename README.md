@@ -3,7 +3,7 @@ The product manager has tasked you with implementing these features for the Rele
 
 ## Feature #1
 ### Description
-Users should be able to enter the URL for a Jira Ticket and click on a botton to retrieve it's information. The page should be able to make a Fetch call to the Jira API to retrieve the release card fields to later validation.
+Users should be able to enter the URL for a Jira Ticket and click on a botton to retrieve it's information. The page should be able to make a Fetch call to the Jira API to retrieve the release card fields to later validation. Check useful links at the bottom.
 
 ### Requirements
 Implement all the needed components to make the call to the Jira API and retrieve the card details. Make all the test cases needed and consider possible failures in the API call and display the appropriate message errors.
@@ -37,6 +37,20 @@ Follow these example screens for the look and feel. Add any aditional one you co
 ![Success](./designs/wintership_3.png)
 
 ![Error](./designs/wintership_4.png)
+
+## Useful Links
+Official React documentation:
+https://reactjs.org/docs/getting-started.html
+https://beta.reactjs.org/
+
+Consume API:
+https://developer.mozilla.org/en-US/docs/Web/API/Request
+https://www.freecodecamp.org/news/how-to-consume-rest-apis-in-react/
+
+React + Typescript:
+https://www.typescriptlang.org/docs/
+https://www.typescriptlang.org/docs/handbook/react.html
+https://github.com/typescript-cheatsheets/react#reacttypescript-cheatsheets
 
 ## Directions
 
