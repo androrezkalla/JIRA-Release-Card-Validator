@@ -10,8 +10,12 @@ Implement all the needed components to make the call to the Jira API and retriev
 
 ## Feature #2
 ### Description
+The web application should be able to validate these fields present in the Jira release card. Release approvers usually need to review the release card by inspecting a few mandatory fields. If validation fails due to incomplete release care, the release requestor must update the fields and raise requests to rerelease approvers.
 
 ### Requirements
+Jira release cards will typically have many fields. Take a look at this example https://jira.teladoc.net/browse/RELEASE-7161 for a sample release request. Please ensure the following fields are not empty and display the validation results.
+Fields: title, description, Change Start, Change completion date, Communication Plan, Deployment Plan, Post Deployment Verification Plan
+Make sure to add the appropriate tests and test all the code added.
 
 ## Feature #3
 ### Description
@@ -20,8 +24,10 @@ Implement all the needed components to make the call to the Jira API and retriev
 
 ## Feature #4
 ### Description
+As the output of feature #2, you will have the working capability that validates the release card. The validation results can be emailed to the release requestors to update the release and retry.
 
 ### Requirements
+As part of Feature#5, the "Contact to requestors" will be added. The results will be shared with requestors through email. The email capability needs to be developed using provider Maropost. 
 
 ## Feature #5
 ### Description
