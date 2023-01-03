@@ -47,26 +47,26 @@ Follow these example screens for the look and feel. Add any aditional one you co
 ![Error](./designs/wintership_4.png)
 
 ## Useful Links
-Official React documentation:
-https://reactjs.org/docs/getting-started.html
+Official React documentation:  
+https://reactjs.org/docs/getting-started.html  
 https://beta.reactjs.org/
 
-Consume API:
-https://developer.mozilla.org/en-US/docs/Web/API/Request
+Consume API:  
+https://developer.mozilla.org/en-US/docs/Web/API/Request  
 https://www.freecodecamp.org/news/how-to-consume-rest-apis-in-react/
 
-React + Typescript:
-https://www.typescriptlang.org/docs/
-https://www.typescriptlang.org/docs/handbook/react.html
+React + Typescript:  
+https://www.typescriptlang.org/docs/  
+https://www.typescriptlang.org/docs/handbook/react.html  
 https://github.com/typescript-cheatsheets/react#reacttypescript-cheatsheets
 
-Firebase Auth:
-https://firebase.google.com/docs/web/setup
+Firebase Auth:  
+https://firebase.google.com/docs/web/setup  
 https://firebase.google.com/docs/auth/web/start
 
-Access to GitHub repo:
-https://confluence.teladoc.net/display/TDOC/Developer+Machine+Setup#DeveloperMachineSetup-Step2:AccesstoGitHub
-https://docs.github.com/en/authentication/connecting-to-github-with-ssh
+Access to GitHub repo:  
+https://confluence.teladoc.net/display/TDOC/Developer+Machine+Setup#DeveloperMachineSetup-Step2:AccesstoGitHub  
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh  
 https://docs.github.com/en/github/authenticating-to-github/authenticating-with-saml-single-sign-on/authorizing-an-ssh-key-for-use-with-saml-single-sign-on
 
 ## Directions
