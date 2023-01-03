@@ -68,3 +68,13 @@ Access to GitHub repo:
 https://confluence.teladoc.net/display/TDOC/Developer+Machine+Setup#DeveloperMachineSetup-Step2:AccesstoGitHub
 https://docs.github.com/en/authentication/connecting-to-github-with-ssh
 https://docs.github.com/en/github/authenticating-to-github/authenticating-with-saml-single-sign-on/authorizing-an-ssh-key-for-use-with-saml-single-sign-on
+
+## Directions
+Clone the repository and run the following command:
+`npm install`
+
+To start the development server run:
+`npm start`
+
+To run the Tests run:
+`npm test`
