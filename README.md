@@ -60,8 +60,11 @@ https://www.typescriptlang.org/docs/
 https://www.typescriptlang.org/docs/handbook/react.html
 https://github.com/typescript-cheatsheets/react#reacttypescript-cheatsheets
 
-## Directions
+Firebase Auth:
+https://firebase.google.com/docs/web/setup
+https://firebase.google.com/docs/auth/web/start
 
-## Extra Credit
-
-## Submission
+Access to GitHub repo:
+https://confluence.teladoc.net/display/TDOC/Developer+Machine+Setup#DeveloperMachineSetup-Step2:AccesstoGitHub
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh
+https://docs.github.com/en/github/authenticating-to-github/authenticating-with-saml-single-sign-on/authorizing-an-ssh-key-for-use-with-saml-single-sign-on
