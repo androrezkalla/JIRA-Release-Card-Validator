@@ -61,6 +61,14 @@ https://www.typescriptlang.org/docs/handbook/react.html
 https://github.com/typescript-cheatsheets/react#reacttypescript-cheatsheets
 
 ## Directions
+Clone the repository and run the following command:
+`npm install`
+
+To start the development server run:
+`npm start`
+
+To run the Tests run:
+`npm test`
 
 ## Extra Credit
 
