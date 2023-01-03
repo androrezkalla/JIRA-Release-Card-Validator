@@ -1,5 +1,5 @@
 # Wintership 2023 Front End engineering
-The product manager has tasked you with implementing these features for the Release Card Validator page. The following five features need to be completed in the next sprint. Some portion of the code with basica functionalities has already been created.
+The product manager has tasked you with implementing these features for the Release Card Validator app. The following five features need to be completed in the next sprint. A portion of the code with basic functionalities has already been created.
 
 ## Feature #1
 ### Description
