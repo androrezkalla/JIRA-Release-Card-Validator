@@ -19,8 +19,10 @@ Make sure to add the appropriate tests and test all the code added.
 
 ## Feature #3
 ### Description
+Authentication is a critical requirement of almost any application. At the same time, there are many ways authentication could be achieved. We often need a fine-grained permissions model to allow only specific users to access certain resources while restricting access to everyone else.
 
 ### Requirements
+Build authentication capability using firebase authentication service.
 
 ## Feature #4
 ### Description
